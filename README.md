@@ -2,4 +2,4 @@
 Desenvolvendo uma Api RestFull de Produtos
 
 ## Descrição
-copilot🎱
+copilot:all
